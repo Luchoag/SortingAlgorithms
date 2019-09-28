@@ -1,0 +1,9 @@
+C:\Users\Casa\AppData\Local\Temporary Projects\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\Users\Casa\AppData\Local\Temporary Projects\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+C:\Users\Casa\AppData\Local\Temporary Projects\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\Users\Casa\AppData\Local\Temporary Projects\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\Casa\AppData\Local\Temporary Projects\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\Users\Casa\AppData\Local\Temporary Projects\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
